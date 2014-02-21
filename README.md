@@ -1,4 +1,4 @@
 HbaseDemo
 =========
 
-Create table and lot data to Hbase.
+Create table and add data to Hbase table.
